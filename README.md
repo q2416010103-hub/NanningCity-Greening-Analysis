@@ -167,3 +167,6 @@ This project is developed for educational and research purposes. Please cite app
 ---
 
 *For more information, please visit the web application or explore the GEE script directly.*
+Name：Xiyuan Qin
+Email:2416010103@s.upc.edu.cn
+Github:q2416010103-Hub
